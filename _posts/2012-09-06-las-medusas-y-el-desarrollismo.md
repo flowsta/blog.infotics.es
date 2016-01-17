@@ -1,0 +1,140 @@
+---
+id: 539
+title: Las medusas y el desarrollismo
+author: Adolfo Antón Bravo
+layout: post
+guid: http://blogs.cuartocanal.es/infotics/?p=539
+permalink: /2012/09/06/las-medusas-y-el-desarrollismo/
+dublin_core_author:
+  - Enter author here
+dublin_core_subject:
+  - Enter comma separated keywords here
+dublin_core_title:
+  - Enter title here
+dublin_core_description:
+  - Enter description here
+dublin_core_source:
+  - Enter source here
+dublin_core_publisher:
+  - Enter publisher here
+dublin_core_contributor:
+  - Enter contributor here
+dublin_core_rights:
+  - Enter rights here
+oc_metadata:
+  - |
+    {		version:'1.1',		tags: {'asociacin-colaboradora-de-propietarios': {"text":"Asociación Colaboradora de Propietarios","slug":"asociacin-colaboradora-de-propietarios","source":{"_className":"Entity","url":"http://d.opencalais.com/genericHasher-1/30e5f0d8-4917-32ac-9d52-bc90d6642c77","subjectURL":null,"type":{"_className":"ArtifactType","url":"http://s.opencalais.com/1/type/em/e/Organization","name":"Organization"},"name":"Asociación Colaboradora de Propietarios","rawRelevance":0.098,"normalizedRelevance":0.20374220374220375},"bucketName":"current","bucketPlacement":"auto","_className":"Tag"}, 'mediterrneo': {"text":"Mediterráneo","slug":"mediterrneo","source":{"_className":"Entity","url":"http://d.opencalais.com/genericHasher-1/bb8929c1-2149-3f15-9535-0f8f2b654358","subjectURL":null,"type":{"_className":"ArtifactType","url":"http://s.opencalais.com/1/type/em/e/NaturalFeature","name":"NaturalFeature"},"name":"Mediterráneo","rawRelevance":0.263,"normalizedRelevance":0.5467775467775469},"bucketName":"current","bucketPlacement":"auto","_className":"Tag"}, 'burgos': {"text":"Burgos","slug":"burgos","source":{"_className":"Entity","url":"http://d.opencalais.com/er/geo/provinceorstate/ralg-geo1/f888f885-d7db-29eb-c854-acfa2ddd2561","subjectURL":"http://d.opencalais.com/genericHasher-1/e2fb3637-50ae-3c68-b0aa-18b579c59f34","type":{"_className":"ArtifactType","url":"http://s.opencalais.com/1/type/er/Geo/ProvinceOrState","name":"ProvinceOrState"},"name":"Burgos","rawRelevance":0.098,"normalizedRelevance":0.20374220374220375},"bucketName":"current","bucketPlacement":"auto","_className":"Tag"}, 'cartagena': {"text":"Cartagena","slug":"cartagena","source":{"_className":"Entity","url":"http://d.opencalais.com/er/geo/city/ralg-geo1/b12cdf73-24c2-6506-778b-b1673ed557a1","subjectURL":"http://d.opencalais.com/genericHasher-1/09a313aa-472e-3f06-aaec-17b3b51c4bc0","type":{"_className":"ArtifactType","url":"http://s.opencalais.com/1/type/er/Geo/City","name":"City"},"name":"Cartagena","rawRelevance":0.165,"normalizedRelevance":0.34303534303534305},"bucketName":"current","bucketPlacement":"auto","_className":"Tag"}, 'antonio-cerd': {"text":"Antonio Cerdá","slug":"antonio-cerd","source":{"_className":"Entity","url":"http://d.opencalais.com/pershash-1/a6895330-25b5-3356-93d5-94587289cc0c","subjectURL":null,"type":{"_className":"ArtifactType","url":"http://s.opencalais.com/1/type/em/e/Person","name":"Person"},"name":"Antonio Cerdá","rawRelevance":0.198,"normalizedRelevance":0.41164241164241167},"bucketName":"current","bucketPlacement":"auto","_className":"Tag"}, 'arocasa': {"text":"Arocasa","slug":"arocasa","source":{"_className":"Entity","url":"http://d.opencalais.com/genericHasher-1/c34935a9-c933-3cd0-8f99-e2a6cd5ee29d","subjectURL":null,"type":{"_className":"ArtifactType","url":"http://s.opencalais.com/1/type/em/e/City","name":"City"},"name":"Arocasa","rawRelevance":0.098,"normalizedRelevance":0.20374220374220375},"bucketName":"current","bucketPlacement":"auto","_className":"Tag"}, 'eur': {"text":"EUR","slug":"eur","source":{"_className":"Entity","url":"http://d.opencalais.com/genericHasher-1/14d13f7a-3038-3271-84c0-913d58cf911e","subjectURL":null,"type":{"_className":"ArtifactType","url":"http://s.opencalais.com/1/type/em/e/Currency","name":"Currency"},"name":"EUR","rawRelevance":0.481,"normalizedRelevance":1},"bucketName":"current","bucketPlacement":"auto","_className":"Tag"}, 'guilas': {"text":"Águilas","slug":"guilas","source":{"_className":"Entity","url":"http://d.opencalais.com/er/geo/city/ralg-geo1/f938859a-579c-1257-f100-e412738ad74f","subjectURL":"http://d.opencalais.com/genericHasher-1/4d089414-1db2-3205-9d24-affe8d843043","type":{"_className":"ArtifactType","url":"http://s.opencalais.com/1/type/er/Geo/City","name":"City"},"name":"Águilas","rawRelevance":0.109,"normalizedRelevance":0.22661122661122662},"bucketName":"current","bucketPlacement":"auto","_className":"Tag"}, 'greenpeace': {"text":"Greenpeace","slug":"greenpeace","source":{"_className":"Entity","url":"http://d.opencalais.com/genericHasher-1/07bd784b-2501-3b08-b30e-40cfc880e1ce","subjectURL":null,"type":{"_className":"ArtifactType","url":"http://s.opencalais.com/1/type/em/e/Organization","name":"Organization"},"name":"Greenpeace","rawRelevance":0.199,"normalizedRelevance":0.41372141372141374},"bucketName":"current","bucketPlacement":"auto","_className":"Tag"}, 'cope-con': {"text":"Cope Con","slug":"cope-con","source":{"_className":"Entity","url":"http://d.opencalais.com/pershash-1/0bd5f840-6ee3-33fc-bcf5-892037429d63","subjectURL":null,"type":{"_className":"ArtifactType","url":"http://s.opencalais.com/1/type/em/e/Person","name":"Person"},"name":"Cope Con","rawRelevance":0.154,"normalizedRelevance":0.3201663201663202},"bucketName":"current","bucketPlacement":"auto","_className":"Tag"}, 'valleduero': {"text":"Valleduero","slug":"valleduero","source":{"_className":"Entity","url":"http://d.opencalais.com/genericHasher-1/2ff4fbbc-b123-3a19-a45f-9e0ab1458b7c","subjectURL":null,"type":{"_className":"ArtifactType","url":"http://s.opencalais.com/1/type/em/e/City","name":"City"},"name":"Valleduero","rawRelevance":0.098,"normalizedRelevance":0.20374220374220375},"bucketName":"current","bucketPlacement":"auto","_className":"Tag"}, 'marta-carreras': {"text":"Marta Carreras","slug":"marta-carreras","source":{"_className":"Entity","url":"http://d.opencalais.com/pershash-1/f8df539f-d027-3ef3-8c63-8e8e881973c1","subjectURL":null,"type":{"_className":"ArtifactType","url":"http://s.opencalais.com/1/type/em/e/Person","name":"Person"},"name":"Marta Carreras","rawRelevance":0.05,"normalizedRelevance":0.10395010395010396},"bucketName":"current","bucketPlacement":"auto","_className":"Tag"}, 'caja-castilla-la-mancha': {"text":"Caja Castilla la Mancha","slug":"caja-castilla-la-mancha","source":{"_className":"Entity","url":"http://d.opencalais.com/er/company/ralg-tr1r/c4ad53e9-9390-316a-a3df-d1d8ba1324c5","subjectURL":"http://d.opencalais.com/comphash-1/34d2ad6a-68c6-3d75-835c-7a51a1f0d75b","type":{"_className":"ArtifactType","url":"http://s.opencalais.com/1/type/er/Company","name":"Company"},"name":"Caja Castilla la Mancha","rawRelevance":0.103,"normalizedRelevance":0.21413721413721412},"bucketName":"current","bucketPlacement":"auto","_className":"Tag"}, 'asturias': {"text":"Asturias","slug":"asturias","source":{"_className":"Entity","url":"http://d.opencalais.com/genericHasher-1/1e8f52ab-9c1c-314d-a366-0b5d5ecba56c","subjectURL":null,"type":{"_className":"ArtifactType","url":"http://s.opencalais.com/1/type/em/e/ProvinceOrState","name":"ProvinceOrState"},"name":"Asturias","rawRelevance":0.047,"normalizedRelevance":0.09771309771309772},"bucketName":"current","bucketPlacement":"auto","_className":"Tag"}, 'extremalia': {"text":"Extremalia","slug":"extremalia","source":{"_className":"Entity","url":"http://d.opencalais.com/genericHasher-1/bc8b6d57-787f-3b32-bc12-a3e3b3d76f2e","subjectURL":null,"type":{"_className":"ArtifactType","url":"http://s.opencalais.com/1/type/em/e/City","name":"City"},"name":"Extremalia","rawRelevance":0.098,"normalizedRelevance":0.20374220374220375},"bucketName":"current","bucketPlacement":"auto","_className":"Tag"}, 'lorca': {"text":"Lorca","slug":"lorca","source":{"_className":"Entity","url":"http://d.opencalais.com/genericHasher-1/92d6b51b-4246-33cd-842f-4fa0c03ef70f","subjectURL":null,"type":{"_className":"ArtifactType","url":"http://s.opencalais.com/1/type/em/e/City","name":"City"},"name":"Lorca","rawRelevance":0.109,"normalizedRelevance":0.22661122661122662},"bucketName":"current","bucketPlacement":"auto","_className":"Tag"}, 'mazarrn': {"text":"Mazarrón","slug":"mazarrn","source":{"_className":"Entity","url":"http://d.opencalais.com/er/geo/city/ralg-geo1/34db2923-8e4f-fd4b-6b8d-dfc75aed9769","subjectURL":"http://d.opencalais.com/genericHasher-1/224435e1-f143-389c-93a1-a2e2d9cfc55f","type":{"_className":"ArtifactType","url":"http://s.opencalais.com/1/type/er/Geo/City","name":"City"},"name":"Mazarrón","rawRelevance":0.147,"normalizedRelevance":0.30561330561330563},"bucketName":"current","bucketPlacement":"auto","_className":"Tag"}, 'instituto-de-estudios-oceanogrficos': {"text":"Instituto de Estudios Oceanográficos","slug":"instituto-de-estudios-oceanogrficos","source":{"_className":"Entity","url":"http://d.opencalais.com/genericHasher-1/823975c7-69c7-336f-b28d-52f2ef94dae7","subjectURL":null,"type":{"_className":"ArtifactType","url":"http://s.opencalais.com/1/type/em/e/Organization","name":"Organization"},"name":"Instituto de Estudios Oceanográficos","rawRelevance":0.056,"normalizedRelevance":0.11642411642411643},"bucketName":"current","bucketPlacement":"auto","_className":"Tag"}, 'europa': {"text":"Europa","slug":"europa","source":{"_className":"Entity","url":"http://d.opencalais.com/genericHasher-1/8a366d24-084b-394f-b3fa-a22bc6ff4ada","subjectURL":null,"type":{"_className":"ArtifactType","url":"http://s.opencalais.com/1/type/em/e/Continent","name":"Continent"},"name":"Europa","rawRelevance":0.121,"normalizedRelevance":0.2515592515592516},"bucketName":"current","bucketPlacement":"auto","_className":"Tag"}, 'marina-de-cope': {"text":"Marina de Cope","slug":"marina-de-cope","source":{"_className":"Entity","url":"http://d.opencalais.com/pershash-1/e4b98ce2-eb39-398c-8e0c-2cba5bf5a99a","subjectURL":null,"type":{"_className":"ArtifactType","url":"http://s.opencalais.com/1/type/em/e/Person","name":"Person"},"name":"Marina de Cope","rawRelevance":0.291,"normalizedRelevance":0.604989604989605},"bucketName":"current","bucketPlacement":"auto","_className":"Tag"}, 'el-mar-menor': {"text":"el Mar Menor","slug":"el-mar-menor","source":{"_className":"Entity","url":"http://d.opencalais.com/genericHasher-1/a2f48fdb-1ad8-3404-8c00-1054164f3e7b","subjectURL":null,"type":{"_className":"ArtifactType","url":"http://s.opencalais.com/1/type/em/e/City","name":"City"},"name":"el Mar Menor","rawRelevance":0.303,"normalizedRelevance":0.6299376299376299},"bucketName":"current","bucketPlacement":"auto","_className":"Tag"}, 'cartagenadehoy': {"text":"Cartagenadehoy","slug":"cartagenadehoy","source":{"_className":"Entity","url":"http://d.opencalais.com/comphash-1/bfd109ef-4d38-340c-8d69-e321521a5e77","subjectURL":null,"type":{"_className":"ArtifactType","url":"http://s.opencalais.com/1/type/em/e/Company","name":"Company"},"name":"Cartagenadehoy","rawRelevance":0.183,"normalizedRelevance":0.3804573804573805},"bucketName":"current","bucketPlacement":"auto","_className":"Tag"}, 'caja-de-ahorros-de-murcia': {"text":"Caja de Ahorros de Murcia","slug":"caja-de-ahorros-de-murcia","source":{"_className":"Entity","url":"http://d.opencalais.com/er/company/ralg-tr1r/a34e12ca-9f54-3720-bb5f-6d20eb991462","subjectURL":"http://d.opencalais.com/comphash-1/2c6e2026-6179-3e11-8337-8da7cfe89cfb","type":{"_className":"ArtifactType","url":"http://s.opencalais.com/1/type/er/Company","name":"Company"},"name":"Caja de Ahorros de Murcia","rawRelevance":0.409,"normalizedRelevance":0.8503118503118503},"bucketName":"current","bucketPlacement":"auto","_className":"Tag"}, 'marina-dor': {"text":"Marina Dor","slug":"marina-dor","source":{"_className":"Entity","url":"http://d.opencalais.com/pershash-1/858525b1-38d9-37a4-82f5-85e925655080","subjectURL":null,"type":{"_className":"ArtifactType","url":"http://s.opencalais.com/1/type/em/e/Person","name":"Person"},"name":"Marina Dor","rawRelevance":0.121,"normalizedRelevance":0.2515592515592516},"bucketName":"current","bucketPlacement":"auto","_className":"Tag"}, 'medusas': {"text":"medusas","slug":"medusas","source":null,"bucketName":"current","bucketPlacement":"auto","_className":"Tag"}, 'medusa': {"text":"medusa","slug":"medusa","source":null,"bucketName":"current","bucketPlacement":"auto","_className":"Tag"}, 'campo-de-cartagena': {"text":"Campo de Cartagena","slug":"campo-de-cartagena","source":null,"bucketName":"current","bucketPlacement":"auto","_className":"Tag"}, 'corrientes': {"text":"corrientes","slug":"corrientes","source":null,"bucketName":"current","bucketPlacement":"auto","_className":"Tag"}, 'atn': {"text":"atún","slug":"atn","source":null,"bucketName":"current","bucketPlacement":"auto","_className":"Tag"}, 'explotacin': {"text":"explotación","slug":"explotacin","source":null,"bucketName":"current","bucketPlacement":"auto","_className":"Tag"}, 'mares': {"text":"mares","slug":"mares","source":null,"bucketName":"current","bucketPlacement":"auto","_className":"Tag"}, 'tortuga': {"text":"tortuga","slug":"tortuga","source":null,"bucketName":"current","bucketPlacement":"auto","_className":"Tag"}, 'decrecimiento': {"text":"decrecimiento","slug":"decrecimiento","source":null,"bucketName":"current","bucketPlacement":"auto","_className":"Tag"}, 'decrecer': {"text":"decrecer","slug":"decrecer","source":null,"bucketName":"current","bucketPlacement":"auto","_className":"Tag"}, 'caja-de-ahorros-de-valencia-castellon-y-alicante': {"text":"Caja de Ahorros de Valencia Castellon y Alicante","slug":"caja-de-ahorros-de-valencia-castellon-y-alicante","source":null,"bucketName":"current","bucketPlacement":"auto","_className":"Tag"}, 'iberdrola-sa': {"text":"Iberdrola S.A.","slug":"iberdrola-sa","source":null,"bucketName":"current","bucketPlacement":"auto","_className":"Tag"}, 'madrid': {"text":"madrid","slug":"madrid","source":null,"bucketName":"current","bucketPlacement":"auto","_className":"Tag"}, 'bancaja': {"text":"Bancaja","slug":"bancaja","source":null,"bucketName":"current","bucketPlacement":"auto","_className":"Tag"}, 'caja-murcia': {"text":"Caja Murcia","slug":"caja-murcia","source":null,"bucketName":"current","bucketPlacement":"auto","_className":"Tag"}, 'iberdrola': {"text":"Iberdrola","slug":"iberdrola","source":null,"bucketName":"current","bucketPlacement":"auto","_className":"Tag"}}	}
+oc_commit_id:
+  - http://blogs.cuartocanal.es/infotics/2012/09/06/las-medusas-y-el-desarrollismo/1346950605
+dsq_thread_id:
+  - 833628673
+categories:
+  - ecología
+tags:
+  - Águilas
+  - Antonio Cerdá
+  - Arocasa
+  - Asociación Colaboradora de Propietarios
+  - Asturias
+  - atún
+  - Bancaja
+  - Burgos
+  - Caja Castilla la Mancha
+  - Caja de Ahorros de Murcia
+  - Caja de Ahorros de Valencia Castellon y Alicante
+  - Caja Murcia
+  - Campo de Cartagena
+  - Cartagena
+  - Cartagenadehoy
+  - Cope Con
+  - corrientes
+  - decrecer
+  - decrecimiento
+  - el Mar Menor
+  - EUR
+  - Europa
+  - explotación
+  - Extremalia
+  - Greenpeace
+  - Iberdrola
+  - Iberdrola S.A.
+  - Instituto de Estudios Oceanográficos
+  - Lorca
+  - madrid
+  - mares
+  - Marina de Cope
+  - Marina Dor
+  - Marta Carreras
+  - Mazarrón
+  - Mediterráneo
+  - medusa
+  - medusas
+  - tortuga
+  - Valleduero
+---
+Invertebrados que pertenecen al grupo de los cnidarios (del griego *knidé*, ortiga), junto con los corales y las gorgonias. Existen más de 8.000 especies diferentes, de las cuales 1.000 pueden resultar tóxicas y algunas como la *avispa australiana* incluso letales -causa más muertes que los tiburones. Su transparencia se debe a que se componen de agua al 95%, lo cual les camufla. Se alimentan de placton, pequeños crustaceos y peces de distinto tamaño. Las células urticantes las utilizan para alimentarse y defenderse.
+
+Cuando era pequeño, las medusas venían a la playa a finales de julio y agosto. Nos decían que era por el aumento de la temperatura del agua. Entonces las conocíamos como claveles y sólo conocíamos esta especie. Cuando nos picaban, nos raspábamos con la arena de la playa, luego nos lavábamos con agua dulce, nos quitábamos las patitas y nos dábamos amoniaco. Si picaban mucho, nos dedicábamos a buscarlas y recogerlas, bien manualmente -con las dos palmas formando un cuenco, ya que si no tocaban pelo no picaban- o con cubos, gafas de buceo&#8230;  
+Todo esto que creíamos saber de las medusas tenía parte de verdad, pero también mucho desconocimiento, tanto como el tratamiento que empleábamos para las picaduras o las medidas para controlar su población.<figure id="attachment_541" style="width: 738px;" class="wp-caption alignnone">
+
+<a href="http://blogs.cuartocanal.es/infotics/2012/09/06/las-medusas-y-el-desarrollismo/medusa_spiegeleiqualle/" rel="attachment wp-att-541"><img class="size-full wp-image-541 " title="Aguacuajada del Mar Adriático http://es.wikipedia.org/wiki/Cotylorhiza_tuberculata" src="http://i0.wp.com/blogs.cuartocanal.es/infotics/files/2012/09/medusa_spiegeleiqualle.jpg?fit=660%2C537" alt="Aguacuajada del Mar Adriático" data-recalc-dims="1" /></a><figcaption class="wp-caption-text">Aguacuajada del Mar Adriático http://es.wikipedia.org/wiki/Cotylorhiza_tuberculata</figcaption></figure> 
+
+En la actualidad, el [tratamiento de las picaduras es más correcto][1]: lavar con agua salada, retirar las patas o aguijones, ayudándonse de guantes y/o vinagre si es preciso, aplicar soluciones con amoniaco, antihestamínicos o corticoides, colocar hielo&#8230; pero también hay más tipos de medusas y más lesivas y también personas a las que afecta más por su organismo o por su edad -bebés y mayores- o por tratamientos médicos que reciben.  
+En lo demás, parece que vamos a peor ya que las políticas públicas han imitado las costumbres de niñxs y mayores en las playas: recogerlas ([hasta 150 toneladas en 5 días de agosto de 2011 en el Mar Menor][2]) y poner redes protectoras en las playas. Será que hay más porque hace más calor&#8230;  
+La realidad, y es [hacia adonde apuntan todos los estudios][3] , es que el [crecimiento de las medusas en el Mediterráneo][4] y en general en todos los mares y océanos, se debe a una serie de [factores interrelacionados][5] que no se están tratando:
+
+  * Aumento de vertidos de fertilizantes de explotaciones agrícolas y aguas negras de núcleos urbanos, [residuos que sin tratar van directamente al mar][6] y produce un aumento de nitrógeno y fósforo que favorece el aumento del plancton que es el alimento favorito de las medusas. También es el alimento de otros peces, pero como hay menos peces&#8230;
+  * Sobreexplotación de los caladeros, lo que provoca una disminución de todas las especies que afecta en dos vertientes, negativas por igual. Por un lado, las especies que se alimentan de plancton y que podrían competir con las medusas, descienden en número, por lo que entonces las medusas no encuentran competidores. Por otro lado, el descenso de los túnidos por sobreexplotación y de las [tortugas][7] marinas por [malas prácticas pesqueras][8] reducen las especies que son enemigas de las medusas.
+  * Aumento de medusas, lo que hace que se coman los huevos de las especies con las que compiten en el plancton.
+  * Incremento de la temperatura de los mares, que acelera el ciclo vital de las medusas.
+  * La sobreexplotación de los ríos y [la sequía, que disminuye el aporte de agua dulce a los mares, eleva su temperatura y aumenta su salinidad][9], contribuyendo a crear un hábitat que favorece a las medusas.
+  * El cambio climático provoca [un incremento en las floraciones de algas nocivas, pero también de organismos animales urticantes, medusas, sifonóforos, durante los meses cálidos, en parte al menos, relacionada con el incremento de la temperatura del agua y de nutrientes inorgánicos][10].
+
+## El Mar Menor, un caso extremo
+
+En el Mar Menor, una laguna litoral o de agua salada, se encuentran [doce barcos pescando medusas y 43 kilómetros de redes de contención][11] protegen las zonas de baño, un presupuesto dde 700.000 euros según explicaba el [consejero de Agricultura y Agua Antonio Cerdá][12].  
+Su estado lleva siendo incluido en los informes de varias asociaciones ecologistas como Greenpeace o Ecologistas en Acción. El [diario Cartagenadehoy][13] se hacía eco del reciente informe de Greenpeace **Destrucción a toda costa 2012**, donde la Región de Murcia ocupa un lugar destacado. El informe hace un análisis económico y ambiental de la actual gestión costera, y de las consecuencias de la inminente reforma de la Ley de Costas. La mala gestión costera se ha traducido en actuaciones caras y dañinas en regeneración de playas, dragados, espigones y reconstrucción de paseos marítimos. Solo en el Mar Menor se han gastado en dos años 1.627.000 de euros con unos resultados más que discutibles. Otros medios han destacado el informe de [Banderas Negras 2011][14], realizado por Ecologistas en Acción, que destaca 29 Banderas Negras y 84 Puntos Negros en la región,
+
+## Crisis, reforma de la Ley de Costas y actuaciones como la del Parque Regional de Cabo Cope
+
+Con la crisis de la burbuja inmobiliaria, la Región de Murcia pone al descubierto un parque de 70.000 viviendas sin vender (20,5 viviendas por cada 1000 habitantes. Aun así, tras la reforma de la Ley de Costas está prevista la construcción de 110.000 viviendas en el Campo de Cartagena, Mazarrón y el Mar Menor. Además, en 12 años se ha destruído el 40% de la huerta productiva murciana.  
+Aun así, sigue habiendo espacios semi vírgenes y sigue habiendo amenazas de los poderes públicos. El caso más significativo es el del [Parque Regional de Cabo Cope y Puntas de Calnegre][15], que [ostenta diferentes figuras de protección y cuenta con varias especies protegidas][16].  
+Sin embargo, el gobierno regional creo la Actuación de Interés Regional (AIR) Marina de Cope ([ver planos en PDF][17]) que pretende la construcción del mayor complejo turístico de Europa (oh, ya no lo será Marina Dor&#8230;), consistente en **9.000 viviendas**, **22 hoteles** (**20.000 plazas hoteleras**), instalaciones comerciales y de ocio, un auditorio, **cinco campos de golf de 18 hoyos**, **una marina interior (para 2.000 embarcaciones)**, compuesta por un **centro de Mega Yates**, club naútico, marina residencial, muelles turísticos de ribera y un almacén de tierra, y varios centros de alto rendimiento deportivo (**10 campos de fútbol**, campos de tenis, velódromo&#8230;), sin contar con las vías de comunicación por construir, además de la actual autovía Cartagena-Vera.  
+Tanto el [gobierno regional como las localidades de Lorca y Águilas han hecho todo lo posible por que el proyecto saliera adelante][18]. Pero también empresas como [Iberdrola (Inmobiliaria, asociada con Actura y Summa), propietaria de gran parte de los terrenos][18], aunque en 2004 vendió un 40% de sus 378 hectáreas a Caja Murcia, Bancaja (Bankia) y Caja Castilla-La Mancha -las dos últimas, intervenidas. En la [ Asociación Colaboradora de Propietarios][19] trabajan las anteriores promotoras junto a Valleduero (Burgos), Arocasa (Madrid) y Extremalia (Extremadura).  
+Como en toda burbuja, la [milonga del empleo][20] es otro factor en el que se apoya el gobierno regional, pues preven 3000 empleos directos en la fase de urbanización y construcción, 3800 para su funcionamiento y 6500 indirectos.  
+Recientemente el gobierno regional dio a conocer a bombo y platillo que se habían resuelto los problemas burocráticos, y de ello se hacían eco los medios de la caverna mediática que hemos citado en los párrafos anteriores (larazon.es y laverdad.es&#8230; pena de dominios, por cierto&#8230;). ¡Nada más lejos de la realidad! [Ecologistas en Acción recuerda que existen varios procedimientos judiciales abiertos][21], como son el *Recurso Contencioso-administrativo contra las Directrices del Litoral de la Región de Murcia*, un *Recurso de Inconstitucionalidad contra la Disposición Adicional Octava de la Ley del Suelo de la Región de Murcia* que desprotegió 15.000 hectáreas de espacio natural protegido, y un *Recurso Contencioso-Administrativo contra la Actuación de Interés Regional* de *Marina de Cope*.
+
+## ¿Soluciones? ¿Decrecer?
+
+Revertir la situación requiere una política integral que tendría un coste bastante alejado del poco más de millón y medio de euros, según informes referidos:
+
+  * Coste de la restauración ambiental para los horizontes de subida de nivel del mar por cambio climático: 90 millones de euros para recuperar temporalmente la estabilidad de las playas de arena fina, 12 millones para recuperar los acantilados y 10 millones para recuperar humedales.
+  * Por la destrucción de la bahía de Portmán se han perdido 319 millones de euros de valor económico asociado a la destrucción de la pradera de posidonia. El plan de regeneración ambiental de la bahía supone más de 79 millones de euros para retirar tan sólo el 7,4 % de los sedimentos tóxicos que se han vertido.
+  * El control de las plagas de medusas en el mar Menor consecuencia directa de la actividad humana, en 2012 tienen un presupuesto de 400.000 euros, en 2011 se gastaron 532.000 euros.
+  * Para concertar un Programa de Acción en el Mar Menor que solucionase los problemas ambientales de esta laguna costera se invirtieron entre los años 2007 y 2009, la cifra de 1.627.705 euros del que nada se sabe.
+
+Como vemos, en cuanto a las causas, se hace todo lo contrario. Y en cuanto al seguimiento del problema, [Marta Carreras][22], científica del Instituto de Estudios Oceanográficos (Oceana), aseguraba a primeros de agosto que <cite>no existen recursos</cite> para el seguimiento de la evolución de las medusas.  
+Así pues, hoy eran las playas gallegas las que aparecían con medusas <cite>procedentes de Asturias</cite> y mañana serán otras playas, otras costas, otros ecosistemas dañados, agredidos, desprotegidos y alterados por la acción humana.
+
+ [1]: http://www.europapress.es/salud/noticia-agua-salada-compresas-frias-pomada-dos-dias-mejor-tratamiento-contra-picaduras-medusas-20120716100445.html
+ [2]: http://www.consumer.es/web/es/medio_ambiente/2011/08/04/202414.php
+ [3]: http://revista.consumer.es/web/es/20080601/medioambiente/72606.php
+ [4]: http://www.consumer.es/web/es/medio_ambiente/naturaleza/2006/08/25/154978.php
+ [5]: http://www.ecologistasenaccion.org/article8767.html
+ [6]: http://ccaa.elpais.com/ccaa/2012/08/04/valencia/1344106388_054756.html
+ [7]: http://es.wikipedia.org/wiki/Tortuga_boba
+ [8]: http://wwf.panda.org/es/hacemos/especies/tortuga_caguama/
+ [9]: http://www.europapress.es/andalucia/sevilla-00357/noticia-falta-lluvia-provoca-aparicion-esperada-medusas-costas-andaluzas-biologo-marino-csic-20120713154805.html
+ [10]: http://www.magrama.gob.es/es/cambio-climatico/temas/impactos-vulnerabilidad-y-adaptacion/04_eco_marino_y_pesquero_2_tcm7-12420.pdf
+ [11]: http://www.europapress.es/murcia/noticia-docena-embarcaciones-inician-viernes-extraccion-medusas-mar-menor-20120720172236.html
+ [12]: http://www.europapress.es/murcia/noticia-cerda-destaca-baipas-trasvase-tajo-segura-ya-ritmo-45-m3-agua-20120726180721.html
+ [13]: http://www.cartagenadehoy.com/index.php?option=com_content&view=article&id=28835:greenpeace-presenta-el-informe-destruccion-a-toda-costa-2012&catid=101:cartagena-de-hoy
+ [14]: http://ecologistasenaccion.org/article21016.html
+ [15]: http://es.wikipedia.org/wiki/Parque_Natural_de_Cabo_Cope_y_Puntas_de_Calnegre
+ [16]: http://www.um.es/eubacteria/marinadecope.html
+ [17]: http://www.la-actualidad.com/pdf/especiales/planos_marina_de_cope.pdf
+ [18]: www.laverdad.es/murcia/20120524/local/region/marina-cope-201205241630.html
+ [19]: http://www.ecologistasenaccion.org/article18086.html
+ [20]: http://www.larazon.es/noticia/6766-la-urbanizacion-marina-de-cope-echa-a-andar
+ [21]: http://murcia-nosevende.blogspot.com.es/2012/06/movilizate-para-salvar-cope-y-calnegre.html
+ [22]: http://www.europapress.es/illes-balears/noticia-oceana-pronostica-aumento-presencia-medusas-baleares-finales-agosto-20120811111314.html
