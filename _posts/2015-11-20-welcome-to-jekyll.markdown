@@ -3,7 +3,7 @@ layout: post
 title:  "Welcome to Jekyll, infotics.es!"
 date:   2016-01-18 02:27:42
 categories: jekyll update infotics evento
-permalink: date
+permalink: 2016/01/18/wellcome-to-jekyll-infotics.html
 ---
 Bienvenidx a Jekyll. Después de mucho tiempo haciendo pruebas y dejándolas a medias he completado esta primera etapa, que no la última, del paso del blog de un gestor de contenidos como Wordpress a un generador de contenido estático como Jekyll.
 
