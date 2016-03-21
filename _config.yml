@@ -20,4 +20,4 @@ gems:
 collections:
   my_collection:
     output: true
-    permalink: title
+    permalink: none
