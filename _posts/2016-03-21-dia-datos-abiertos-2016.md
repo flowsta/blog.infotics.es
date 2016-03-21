@@ -4,7 +4,7 @@ title:  "Día de los datos abiertos en España 2016"
 date:   2016-03-21 15:50:00
 categories: jekyll update infotics evento opendataday opendata datosabiertos
 permalink: /2016/03/21/dia-datos-abiertos-2016/
-tags: medialab-prado odd odd16 iodc2016
+tags: medialab-prado odd odd16 iodc2016 open
 ---
 
 El día de los datos abiertos ha dejado de ser un evento excepcional en muchos lugares de España. En 2016 ocho ciudades se han sumado con diversos actos a esta convocatoria que comenzó tan solo hace cuatro años en Canadá. España se ha convertido en [el país con mayor número de actos](http://wiki.opendataday.org/2016/City_Events#Spain), según el listado de eventos anunciados en la [wiki](http://wiki.opendataday.org/2016/City_Events) de la organización, de un total de 210. No es por tanto casualidad que España haya sido elegida para celebrar la [conferencia internacional de los datos abiertos IODC2016](http://iodc2016.org), a tenor de la buena salud de las comunidades de datos y pese al poblre índice que muestra en el [Open Data Index](https://index.okfn.org/). La semilla de los datos abiertos en España está creciendo imparablemente.
