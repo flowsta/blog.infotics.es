@@ -1,9 +1,9 @@
 ---
-layout: post
 title:  "Día de los datos abiertos en España 2016"
-date:   2016-03-21 15:50:00
-categories: jekyll update infotics evento opendataday opendata datosabiertos
+author: "Adolfo Antón Bravo"
+layout: post
 permalink: /2016/03/21/dia-datos-abiertos-2016/
+categories: jekyll update infotics evento opendataday opendata datosabiertos
 tags: medialab-prado odd odd16 iodc2016 open
 ---
 
