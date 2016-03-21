@@ -4,7 +4,7 @@ email: adolflow@sindominio.net
 description: > # this means to ignore newlines until "baseurl:"
   Transversalidad de la información y las tecnologías
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://infotics.es" # the base hostname & protocol for your site
+url: "http://blog.infotics.es" # the base hostname & protocol for your site
 twitter_username: adolflow
 github_username:  flowsta
 
@@ -15,5 +15,9 @@ gems:
 - jemoji
 - jekyll-redirect-from
 - jekyll-sitemap
-
 - jekyll-feed
+
+collections:
+  my_collection:
+    output: true
+    permalink: title
