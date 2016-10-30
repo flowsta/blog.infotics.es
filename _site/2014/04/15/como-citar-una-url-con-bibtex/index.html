@@ -10,8 +10,8 @@
   <meta name="description" content="BibTeX no ofrece una solución nativa para la cita de una URL, hay muchas formas de hacerlo.">
 
   <link rel="stylesheet" href="/css/main.css">
-  <link rel="canonical" href="http://infotics.es/2014/04/15/como-citar-una-url-con-bibtex/">
-  <link rel="alternate" type="application/rss+xml" title="Infotics" href="http://infotics.es/feed.xml" />
+  <link rel="canonical" href="http://blog.infotics.es/2014/04/15/como-citar-una-url-con-bibtex/">
+  <link rel="alternate" type="application/rss+xml" title="Infotics" href="http://blog.infotics.es/feed.xml" />
 </head>
 
 
@@ -21,7 +21,7 @@
 
   <div class="wrapper">
 
-    <a class="site-title" href="/">Infotics</a>
+    <h1><a class="site-title" href="/">Infotics</a></h1>
 
     <nav class="site-nav">
       <a href="#" class="menu-icon">
@@ -98,7 +98,7 @@
     </p>
     
     <pre class="example">
-@book{abril1997teoria,
+<a href="https://github.com/book" class="user-mention">@book</a>{abril1997teoria,
   title={Teor{'i}a general de la informaci{'o}n: datos, relatos y ritos},
   author={Abril, Gonzalo},
   year={1997},
@@ -141,7 +141,7 @@
     
     <ul class="org-ul">
       <li>
-        <code>@book</code>, indica que se trata de un libro.
+        <code><a href="https://github.com/book" class="user-mention">@book</a></code>, indica que se trata de un libro.
       </li>
       <li>
         <code>abril1997teoria</code>, es el identificador único de este libro en nuestro archivo bibliográfico, compuesto por tres nombres escrito todo seguido. Puede llamarse de otras formas en otros archivos pero el nombre responde a unas convenciones que nos resultarán útiles seguir: <ul class="org-ul">
@@ -196,11 +196,11 @@
     
     <div class="outline-text-3" id="text-2-1">
       <p>
-        La <a href="http://www.tex.ac.uk/cgi-bin/texfaq2html?label%3DciteURL">lista de correo de LaTeX de Reino Unido</a> propone utilizar el tipo de documento <code>@misc</code> con el atributo <code>howpublished</code> para incluir la <i>url</i> y <code>urldate</code> para indicar la fecha de acceso a esa <i>url</i>, donde quedaría así:
+        La <a href="http://www.tex.ac.uk/cgi-bin/texfaq2html?label%3DciteURL">lista de correo de LaTeX de Reino Unido</a> propone utilizar el tipo de documento <code><a href="https://github.com/misc" class="user-mention">@misc</a></code> con el atributo <code>howpublished</code> para incluir la <i>url</i> y <code>urldate</code> para indicar la fecha de acceso a esa <i>url</i>, donde quedaría así:
       </p>
       
       <pre class="example">
-@misc{ASH:2013:Online,
+<a href="https://github.com/misc" class="user-mention">@misc</a>{ASH:2013:Online,
 author = {Varios Autores},
 title = {Archivo Situacionista Hispano},
 year = {1999},
@@ -222,7 +222,7 @@ usepackage{url}
       </p>
       
       <pre class="example">
-@misc{ASH:2013:Online,
+<a href="https://github.com/misc" class="user-mention">@misc</a>{ASH:2013:Online,
 author = {Varios Autores},
 title = {Archivo Situacionista Hispano},
 year = {1999},
@@ -236,7 +236,7 @@ note = {Accedido 01-10-2013}
       </p>
       
       <pre class="example">
-@misc{ASH:2013:Online,
+<a href="https://github.com/misc" class="user-mention">@misc</a>{ASH:2013:Online,
 author = {Varios Autores},
 title = {Archivo Situacionista Hispano},
 year = {1999},
@@ -249,7 +249,7 @@ howpublished = {Accedido en 01-10-2013 a url{http://sindominio.net/ash}},
       </p>
       
       <pre class="example">
-@misc{ASH:2013:vvaa,
+<a href="https://github.com/misc" class="user-mention">@misc</a>{ASH:2013:vvaa,
    author = {VVAA},
    title = {Archivo Situacionista Hispano},
    year = {1996},
@@ -342,7 +342,7 @@ usepackage{babelbib}
 </pre>
       
       <pre class="example">
-@article{mueller08,
+<a href="https://github.com/article" class="user-mention">@article</a>{mueller08,
   % ...
   language = {german}
 }

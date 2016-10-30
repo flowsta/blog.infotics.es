@@ -10,8 +10,8 @@
   <meta name="description" content="Artículo de [Alejandro Ramos][1] publicado en [Security By Default][2], espacio donde poder compartir experiencias y hablar de los aspectos técnicos relacion...">
 
   <link rel="stylesheet" href="/css/main.css">
-  <link rel="canonical" href="http://infotics.es/2012/03/06/casi-10-millones-de-moviles-espanoles-con-whatsapp-instalado/">
-  <link rel="alternate" type="application/rss+xml" title="Infotics" href="http://infotics.es/feed.xml" />
+  <link rel="canonical" href="http://blog.infotics.es/2012/03/06/casi-10-millones-de-moviles-espanoles-con-whatsapp-instalado/">
+  <link rel="alternate" type="application/rss+xml" title="Infotics" href="http://blog.infotics.es/feed.xml" />
 </head>
 
 
@@ -21,7 +21,7 @@
 
   <div class="wrapper">
 
-    <a class="site-title" href="/">Infotics</a>
+    <h1><a class="site-title" href="/">Infotics</a></h1>
 
     <nav class="site-nav">
       <a href="#" class="menu-icon">
@@ -70,7 +70,7 @@ No hemos cambiado el título aunque habría que añadir a <cite>Casi 10 millones
 <h2 id="casi-10-millones-de-mviles-espaoles-con-whatsapp-instalado">Casi 10 millones de móviles españoles con WhatsApp instalado</h2>
 
 <p>¡Qué pesados somos con [whatsapp][8]! Ya, bueno, eso es mentira. Realmente somos pesados con todo. Haciendo algunos ejercicios con aplicaciones de [iPhone][9], me dio por mirar  un poco <strong>WhatsApp</strong>, como [ya hiciera Yago][10] o [Alberto antes][11], pero es que la aplicación da tanto juego, que se puede hablar de ella muchas más veces.<br />
-Una de las cosas que observé en ese análisis es que cuando arranca, comprueba el estado de tus contactos y de esa forma, sabe qué personas de tu agenda usan el servicio. Esta petición se realiza mediante <em>HTTPS</em> contra su <em>servidor web</em> con una llamada muy simple a la <em>URL</em>: <a href="https://sro.whatsapp.net/client/iphone/iq.php">https://sro.whatsapp.net/client/iphone/iq.php</a>, que devuelve un <code>plist</code> con sus mensajes y disponibilidad.<br />
+Una de las cosas que observé en ese análisis es que cuando arranca, comprueba el estado de tus contactos y de esa forma, sabe qué personas de tu agenda usan el servicio. Esta petición se realiza mediante <em>HTTPS</em> contra su <em>servidor web</em> con una llamada muy simple a la <em>URL</em>: <a href="https://sro.whatsapp.net/client/iphone/iq.php">https://sro.whatsapp.net/client/iphone/iq.php</a>, que devuelve un <code class="highlighter-rouge">plist</code> con sus mensajes y disponibilidad.<br />
 `<br /></p>
 <dict><br />
 <key>P</key><br />
@@ -95,9 +95,9 @@ El <em>script</em> en <em>perl</em> no es que soporte <em>threads</em> ni sea na
 use LWP::UserAgent;<br />
 my $ua = new LWP::UserAgent;<br />
 open A,"num.txt";<br />
-my @a=<a>;<br />
+my <a href="https://github.com/a" class="user-mention">@a</a>=<a>;<br />
 my $i=0;<br />
-foreach my $b (@a){<br />
+foreach my $b (<a href="https://github.com/a" class="user-mention">@a</a>){<br />
 chomp $b;<br />
 foreach $g (0..99) {<br />
 $i++;<br />
@@ -145,7 +145,7 @@ Y algunos estados de gente graciosos:
 <string>Te reviento hacker!! Jaja</string>  
 <string>~Hacker~</string>  
 <string>android hacker</string>  
-<string>@andyyhacker</string>  
+<string><a href="https://github.com/andyyhacker" class="user-mention">@andyyhacker</a></string>  
 <string>Quien viene a ver Hackers?????</string>  
 <string>Hacker, Blade Runner.</string>  
 <string>ahhahah soy un porulo hacker :Pî  

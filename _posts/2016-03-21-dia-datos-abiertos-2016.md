@@ -49,3 +49,6 @@ El [Ayuntamiento de Zaragoza apuesta por los Datos Abiertos](http://www.zaragoza
 Para terminar, aunque no se produjo el 5 de marzo sino el 17, cabe destacar el [Encuentro de Datos Abiertos 2016 de la Universidad de Alicante](http://datos.ua.es/es/encuentro-de-datos-abiertos-2016.html), lo que demuestra que el estado de los datos abiertos en España excede de las celebraciones del día mundial y que se celebran actividades relacionadas a lo largo de todo el año.
 
 Desde Alicante quieren hacer énfasis en la oportunidad de emprendimiento que supone la reutilización de información del sector público y el impacto que ésta genera desde el punto de vista de la transparencia y la rendición de cuentas. El acto se compone de una serie de ponencias sobre el estado de los datos abiertos donde participan la Consellería de Transparencia de la GVA, el Open Data Institute (ODI) o la red de apertura de datos de investigación Maredata, y otro bloque dedicado al emprendimiento del propio ecosistema de la Universidad de Alicante  denominado ua:emprende. El colofón del acto fue la entrega de los premios #UAbierta al emprendimiento con datos abiertos.
+
+
+*(Publicado originalmente en [Opendatacon.org](http://opendatacon.org/1785/?lang=es))*
